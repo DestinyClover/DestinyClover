@@ -13,7 +13,7 @@ Whether it's lines of code that bring programs to life, verses that touch the so
 💬 Ask me about: **AI/ML**<br>
 ⚡ Fun fact: **A passionate devotee of the written word, an adept weaver of stories, and a fervent aesthete of the artistic realm.**<br>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=destinyclover&label=Profile%20views&color=0e75b6&style=flat" alt="destinyclover" /> </p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saumya-singh-882438261) 
 
