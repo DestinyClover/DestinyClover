@@ -1,5 +1,5 @@
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
+![Blue Dark Keyboard Search Bar Desktop Wallpaper](https://github.com/DestinyClover/DestinyClover/assets/106618290/1c942bd0-1fc9-4fd6-bebc-d932d14c626b)]
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
 <h3 align="center">I’m a passionate ML enthusiast who dabbles effortlessly between lines of code and the rhythm of words. </h3>
 
@@ -40,7 +40,8 @@ With a heart deeply immersed in the world of development, I find solace in craft
 
 <!--
 **DestinyClover/DestinyClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+[![Blue Dark Keyboard Search Bar Desktop Wallpaper](https://github.com/DestinyClover/DestinyClover/assets/106618290/1c942bd0-1fc9-4fd6-bebc-d932d14c626b)]
 Here are some ideas to get you started:
 <h5 align="justified">
 - 🔭 I’m currently working on ...
