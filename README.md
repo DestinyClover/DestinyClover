@@ -1,6 +1,5 @@
 ![Purple And Blue Geometric Zoom Virtual Banner](https://github.com/DestinyClover/DestinyClover/assets/106618290/c0730dc0-b93b-43e7-8639-ff6a264cc38d)
 
-![Blue Dark Keyboard Search Bar Desktop Wallpaper](https://github.com/DestinyClover/DestinyClover/assets/106618290/1c942bd0-1fc9-4fd6-bebc-d932d14c626b)]
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
 <h3 align="center">A passionate ML enthusiast who dabbles between lines of code and the rhythm of words. </h3>
 
