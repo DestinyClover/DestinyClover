@@ -5,9 +5,6 @@
 
 With a heart deeply immersed in the world of development, I find solace in crafting ML models as much as I do in weaving intricate verses. My days are occupied with debugging conundrums and penning down poetic musings. Whether it's lines of code that bring programs to life, verses that touch the soul, or art that paints emotions vividly, I like to dwell in a symphonic journey of logic and creativity, a fusion that defines essence in a world of boundless possibilities.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=destinyclover&label=Profile%20views&color=0e75b6&style=flat" alt="destinyclover" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destinyclover" alt="destinyclover" /></a> </p>
 
 - 🔭 I’m currently working on **UnForgeIt: A signature forgery detection model**
 
@@ -21,6 +18,9 @@ With a heart deeply immersed in the world of development, I find solace in craft
 
 - ⚡ Fun fact: **A passionate devotee of the written word, an adept weaver of stories, and a fervent aesthete of the artistic realm.**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=destinyclover&label=Profile%20views&color=0e75b6&style=flat" alt="destinyclover" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=destinyclover" alt="destinyclover" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/@https://www.linkedin.com/in/saumya-singh-882438261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@https://www.linkedin.com/in/saumya-singh-882438261" height="30" width="40" /></a>
