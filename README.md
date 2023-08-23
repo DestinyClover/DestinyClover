@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **AI/ML**
 
-- 📫 How to reach me **@https://www.linkedin.com/in/saumya-singh-882438261**
+- 📫 Reach me **@https://www.linkedin.com/in/saumya-singh-882438261**
 
-- ⚡ Fun fact **A passionate devotee of the written word, an adept weaver of stories, and a fervent aesthete of the artistic realm.**
+- ⚡ Fun fact: **A passionate devotee of the written word, an adept weaver of stories, and a fervent aesthete of the artistic realm.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +32,7 @@
 
 
 
-### Hi there 👋
+
 
 <!--
 **DestinyClover/DestinyClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
