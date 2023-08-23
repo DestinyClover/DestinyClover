@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
 <h3 align="center">A passionate ML enthusiast who dabbles between lines of code and the rhythm of words. </h3>
 
-With a heart deeply immersed in the world of development, I find solace in crafting ML models as much as I do in weaving intricate verses. My days are occupied with debugging conundrums and penning down poetic musings. Whether it's lines of code that bring programs to life, verses that touch the soul, or art that paints emotions vividly, I like to dwell in a symphonic journey of logic and creativity, a fusion that defines essence in a world of boundless possibilities.
+Whether it's lines of code that bring programs to life, verses that touch the soul, or art that paints emotions vividly, I like to dwell in a symphonic journey of logic and creativity, a fusion that defines essence in a world of boundless possibilities.
 
 
 - 🔭 I’m currently working on **UnForgeIt: A signature forgery detection model**
