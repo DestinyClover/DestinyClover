@@ -1,4 +1,4 @@
-![Purple And Blue Geometric Zoom Virtual Banner](https://github.com/DestinyClover/DestinyClover/assets/106618290/c0730dc0-b93b-43e7-8639-ff6a264cc38d)
+![Purple And Blue Geometric Zoom Virtual Banner](https://github.com/DestinyClover/DestinyClover/assets/106618290/c0730dc0-b93b-43e7-8639-ff6a264cc38d)width="250" height="250"
 
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
 <h3 align="center">A passionate ML enthusiast who dabbles between lines of code and the rhythm of words. </h3>
