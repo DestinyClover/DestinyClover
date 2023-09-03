@@ -37,7 +37,6 @@ Whether it's lines of code that bring programs to life, verses that touch the so
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DestinyClover&icon=8&color=8)](https://visitcount.itsvg.in)
 
 
 
