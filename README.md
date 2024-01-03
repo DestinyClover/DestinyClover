@@ -9,7 +9,7 @@ Whether it's lines of code that bring programs to life, verses that touch the so
 # 💫 About Me:
 🔭 I’m currently working on **UnForgeIt: A signature forgery detection ML model**<br>
 👯 I’m looking to collaborate on **ML and WebDev projects**<br>
-🌱 I’m currently exploring **Cyber Security**<br>
+🌱 I’m currently exploring **Web Dev**<br>
 💬 Ask me about: **AI/ML**<br>
 ⚡ Fun fact: **A passionate devotee of the written word, an adept weaver of stories, and a fervent aesthete of the artistic realm.**<br>
 
