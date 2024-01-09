@@ -1,9 +1,10 @@
 ![Purple And Blue Geometric Zoom Virtual Banner (1)](https://github.com/DestinyClover/DestinyClover/assets/106618290/8c928bd9-fe2e-4b93-80d7-156a047e4bce)
 
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
-<h3 align="center">A passionate ML enthusiast who dabbles between lines of code and the rhythm of words. </h3>
 
-Whether it's lines of code that bring programs to life, verses that touch the soul, or art that paints emotions vividly, I like to dwell in a symphonic journey of logic and creativity, a fusion that defines essence in a world of boundless possibilities.
+<!--<h3 align="center">A passionate ML enthusiast who dabbles between lines of code and the rhythm of words. </h3>
+-->
+<!--Whether it's lines of code that bring programs to life, verses that touch the soul, or art that paints emotions vividly, I like to dwell in a symphonic journey of logic and creativity, a fusion that defines essence in a world of boundless possibilities.-->
 
 
 # 💫 About Me:
@@ -29,8 +30,7 @@ Whether it's lines of code that bring programs to life, verses that touch the so
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DestinyClover&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=DestinyClover&limit=5&theme=dark&combine_all_yearly_contributions=true)
