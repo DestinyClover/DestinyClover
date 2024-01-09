@@ -2,21 +2,18 @@
 
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
 
-<!--<h3 align="center">A passionate ML enthusiast who dabbles between lines of code and the rhythm of words. </h3>
--->
-<!--Whether it's lines of code that bring programs to life, verses that touch the soul, or art that paints emotions vividly, I like to dwell in a symphonic journey of logic and creativity, a fusion that defines essence in a world of boundless possibilities.-->
 
 
-# 💫 About Me:
-🔭 I’m currently working on **UnForgeIt: A signature forgery detection ML model**<br>
-👯 I’m looking to collaborate on **ML and WebDev projects**<br>
-🌱 I’m currently exploring **Web Dev**<br>
-💬 Ask me about: **AI/ML**<br>
-⚡ Fun fact: **A passionate devotee of the written word, an adept weaver of stories, and a fervent aesthete of the artistic realm.**<br>
+
+# 💫 Intro:
+🔭 currently working on **UnForgeIt: A signature forgery detection ML model**<br>
+👯 looking to collaborate on **ML and WebDev projects**<br>
+🌱 currently exploring **Web Dev**<br>
+⚡ Fun fact: **a fervent aesthete of the artistic realm.**<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destinyclover&label=Profile%20views&color=0e75b6&style=flat" alt="destinyclover" /> </p>
 
-## 🌐 Socials:
+## 🌐 Feel free to connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saumya-singh-882438261)
 
