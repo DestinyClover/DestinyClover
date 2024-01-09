@@ -2,9 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
 
-
-
-
 # 💫 Intro:
 🔭 currently working on **UnForgeIt: A signature forgery detection ML model**<br>
 👯 looking to collaborate on **ML and WebDev projects**<br>
@@ -33,27 +30,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=DestinyClover&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
----
-
-
-
-
-
-
-
-
-<!--
-**DestinyClover/DestinyClover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-[![Blue Dark Keyboard Search Bar Desktop Wallpaper](https://github.com/DestinyClover/DestinyClover/assets/106618290/1c942bd0-1fc9-4fd6-bebc-d932d14c626b)]
-Here are some ideas to get you started:
-<h5 align="justified">
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
