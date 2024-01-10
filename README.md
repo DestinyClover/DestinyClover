@@ -1,7 +1,5 @@
-<!--![Purple And Blue Geometric Zoom Virtual Banner (1)](https://github.com/DestinyClover/DestinyClover/assets/106618290/8c928bd9-fe2e-4b93-80d7-156a047e4bce)-->
-<div align="center">
-<img src="(https://github.com/DestinyClover/DestinyClover/assets/106618290/8c928bd9-fe2e-4b93-80d7-156a047e4bce)" align="center" width="1000" />
-</div>
+![Purple And Blue Geometric Zoom Virtual Banner (1)](https://github.com/DestinyClover/DestinyClover/assets/106618290/8c928bd9-fe2e-4b93-80d7-156a047e4bce)
+
 <h1 align="center">Hi 👋, I'm Saumya Singh</h1>
 
 # 💫 Intro:
